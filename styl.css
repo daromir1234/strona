@@ -1,5 +1,6 @@
 a{
-	color: yellow;
+	color: green;
+	font-family: Verdana;
 }
 
 #baner{
@@ -35,7 +36,7 @@ a{
 #linia{
 	background: yellow;
 	height: 1px;
-	border: 0px;
+	border: 2px;
 }
 
 body{
